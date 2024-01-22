@@ -1,14 +1,14 @@
 name: chaleno
 description: A package to web scraping data from websites easily and faster using less code lines.
-version: 0.0.6
-homepage: https://github.com/antonio-nicolau/chaleno
+version: 0.0.7
+homepage: https://github.com/Movinghead333/chaleno
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=3.2.4 <4.0.0'
 
 dependencies:
-  http: ">=0.13.0 <1.0.0"
-  html: ">=0.15.0 <1.0.0"
+  http: ">=1.2.0 <2.0.0"
+  html: ">=0.15.4 <1.0.0"
 
 dev_dependencies:
   flutter_test:

@@ -1,3 +1,8 @@
+# Changelog
+## 0.0.7:
+- Updated dependencies
+- Added support for html headers
+
 ## [0.0.1] - TODO: Add release date.
 
 * TODO: Describe initial release.
